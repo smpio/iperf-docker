@@ -1,2 +1,2 @@
-# iperf-docker
+# iperf
 Lightweight iperf image
